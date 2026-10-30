@@ -15,7 +15,7 @@ Por ahora los productos se guardan en una lista en memoria dentro de `main.py`; 
 1. Clonar el repositorio y entrar a la carpeta:
 
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/robledocordoba123-cmyk/mini-api-catalogo.git
    cd mini-api-catalogo
    ```
 
