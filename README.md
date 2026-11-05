@@ -3,7 +3,7 @@
 API de solo lectura para el catálogo de una tienda virtual, hecha con **FastAPI** como reto de la Guía 1 (evidencia GA1-AA3-EV04).
 Por ahora los productos se guardan en una lista en memoria dentro de `main.py`; todavía no usa base de datos.
 
-**Aprendiz:** Manuela Córdoba Robledo — Ficha 3229209, ADSO (SENA)
+**Aprendices:** Manuela Córdoba Robledo y Davier Andrés Quinto Bejarano. Ficha 3229209, ADSO (SENA)
 
 ## Requisitos
 
